@@ -1,5 +1,4 @@
-# v1
-First version of GaMMA
+# GaMMA1
 
 GaMMA1 delivers real-time analytics for UFC fights based on the data provided by ESPN. GaMMA1 provides two predictions both with 80% accuracy:
 
